@@ -33,12 +33,14 @@
 
 ## GitHub Stats
 
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSimonRothschild)](https://github.com/DavidSimonRothschild/github-readme-stats)
+
+
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidSimonRothschild&show_icons=true&locale=en&layout=compact" alt="David Simon Rothschild's Top Languages" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSimonRothschild" alt="David Simon Rothschild's GitHub Streak" />
 </div>
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSimonRothschild)](https://github.com/DavidSimonRothschild/github-readme-stats)
 
 ---
 
