@@ -7,7 +7,7 @@
 
 ## About Me
 
-- 🌟 Owner of [**David's Data Insights**](https://medium.com/@DavidsDataInsights) blog. I share insights on Political Science data journalism, R programming, and statistics.
+- 🌟 Owner of [**David's Data Insights**](https://medium.com/@DavidsDataInsights) blog. 
 - 📚 Currently reading research papers on event duration models and political ideal points as part of my Master’s in Political Science.
 - 🎓 I also teach Statistics and R. Explore resources and tutorials on my [blog]([https://yourbloglink.com](https://medium.com/@DavidsDataInsights)) and feel free to reach out for collaborative projects.
 
