@@ -5,6 +5,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:david@black.com)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/DavidSimonRothschild)
 
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSimonRothschild)](https://github.com/DavidSimonRothschild/github-readme-stats)
+
 ## About Me
 
 - 🌟 Owner of [**David's Data Insights**](https://medium.com/@DavidsDataInsights) blog. 
@@ -33,7 +35,7 @@
 
 ## GitHub Stats
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSimonRothschild)](https://github.com/DavidSimonRothschild/github-readme-stats)
+
 
 
 <div align="center">
