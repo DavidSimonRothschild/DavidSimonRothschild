@@ -31,11 +31,12 @@
 
 ## GitHub Stats
 
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="GitHub streak" />
-</div>
+## GitHub Stats
 
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidSimonRothschild&show_icons=true&locale=en&layout=compact" alt="David Simon Rothschild's Top Languages" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSimonRothschild" alt="David Simon Rothschild's GitHub Streak" />
+</div>
 ---
 
 ⚡ To generate a `README.md` file like this for your profile, check out [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
