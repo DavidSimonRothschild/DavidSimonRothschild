@@ -37,7 +37,7 @@
 ![GitHub](https://img.shields.io/badge/-github-05122A?style=flat-square&logo=github&color=353535)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535)
 
-## GitHub Stats
+
 
 ## GitHub Stats
 
