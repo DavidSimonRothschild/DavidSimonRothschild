@@ -23,6 +23,11 @@
 - SQL
 - Julia
 
+## IDEs I Use
+
+- My favorite IDE is currently [WindSuf](https://windsurfai.org) by Codemium.
+- I am also still a huge fan of [R Studio](https://www.posit.co).
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)
