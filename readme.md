@@ -46,11 +46,15 @@
 
 ## GitHub Statistics
 
+
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidSimonRothschild&show_icons=true&locale=en&layout=compact" alt="David Simon Rothschild's Top Languages" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSimonRothschild" alt="David Simon Rothschild's GitHub Streak" />
 </div>
 
+Here are some statistics showcasing my GitHub activity and the languages I use the most:
+- **Top Languages**: This chart displays the programming languages I have used the most in my public repositories.
+- **GitHub Streak**: This visual shows my current streak of consecutive days with contributions to GitHub, highlighting my consistency.
 Here are some statistics showcasing my GitHub activity and the languages I use the most:
 - **Top Languages**: This chart displays the programming languages I have used the most in my public repositories.
 - **GitHub Streak**: This visual shows my current streak of consecutive days with contributions to GitHub, highlighting my consistency.
