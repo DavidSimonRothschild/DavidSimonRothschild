@@ -6,7 +6,6 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:david@black.com)
 [![Github](https://img.shields.io/github/followers/DavidSimonRothschild?label=Follow&style=social)](https://github.com/DavidSimonRothschild)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/david-rothschild-b27269239/](https://www.linkedin.com/in/david-rothschild-b27269239/)](https://www.linkedin.com/in/david-rothschild-b27269239/))
 
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSimonRothschild)](https://github.com/DavidSimonRothschild/github-readme-stats)
