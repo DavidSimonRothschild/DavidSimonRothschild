@@ -42,11 +42,6 @@
 
 ## GitHub Stats
 
-
-
-
-
-
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidSimonRothschild&show_icons=true&locale=en&layout=compact" alt="David Simon Rothschild's Top Languages" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSimonRothschild" alt="David Simon Rothschild's GitHub Streak" />
