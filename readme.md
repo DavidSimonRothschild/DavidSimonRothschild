@@ -26,7 +26,7 @@
 
 ## IDEs I Use
 
-- My favorite IDE is currently [Windsurf](https://windsurfai.org) by Codemium.
+- My favorite IDE is currently [Windsurf](https://windsurfai.org) by Windsurf (former: Codemium).
 - I am also  a huge fan of [R Studio](https://www.posit.co).
 
 ## Tech Stack
